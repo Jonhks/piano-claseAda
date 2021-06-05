@@ -71,7 +71,7 @@ function App() {
   return (
     <div>
       <div className="titulo">
-        <h1>Piano con React</h1>
+        <h1>Piano con React, subiendo un cambio</h1>
         <h2>Hecho por Male 😀</h2>
         <h3 className="esta-sonando">{sonando}</h3>
         <button onClick={handlerClickCount}>Has dado {click} clicks </button>

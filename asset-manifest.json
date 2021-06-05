@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/piano-claseAda/static/css/main.8d59cd0a.chunk.css",
+    "main.js": "/piano-claseAda/static/js/main.194b4247.chunk.js",
+    "main.js.map": "/piano-claseAda/static/js/main.194b4247.chunk.js.map",
+    "runtime-main.js": "/piano-claseAda/static/js/runtime-main.0a4ecd86.js",
+    "runtime-main.js.map": "/piano-claseAda/static/js/runtime-main.0a4ecd86.js.map",
+    "static/js/2.250e5318.chunk.js": "/piano-claseAda/static/js/2.250e5318.chunk.js",
+    "static/js/2.250e5318.chunk.js.map": "/piano-claseAda/static/js/2.250e5318.chunk.js.map",
+    "index.html": "/piano-claseAda/index.html",
+    "static/css/main.8d59cd0a.chunk.css.map": "/piano-claseAda/static/css/main.8d59cd0a.chunk.css.map",
+    "static/js/2.250e5318.chunk.js.LICENSE.txt": "/piano-claseAda/static/js/2.250e5318.chunk.js.LICENSE.txt",
+    "static/media/do.wav": "/piano-claseAda/static/media/do.a2508143.wav",
+    "static/media/fa.wav": "/piano-claseAda/static/media/fa.fdf4ed24.wav",
+    "static/media/la.wav": "/piano-claseAda/static/media/la.5351f634.wav",
+    "static/media/mi.wav": "/piano-claseAda/static/media/mi.51e5702c.wav",
+    "static/media/re.wav": "/piano-claseAda/static/media/re.419c7811.wav",
+    "static/media/si.wav": "/piano-claseAda/static/media/si.42883966.wav",
+    "static/media/sol.wav": "/piano-claseAda/static/media/sol.e5e79dda.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a4ecd86.js",
+    "static/js/2.250e5318.chunk.js",
+    "static/css/main.8d59cd0a.chunk.css",
+    "static/js/main.194b4247.chunk.js"
+  ]
+}
